@@ -1,5 +1,10 @@
 .blue-and-bold{
     color: blueviolet;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 30px;
 } 
+ol{
+    color: crimson;
+    font-weight: bold;
+    font-size: 30px;
+}
